@@ -1,0 +1,1 @@
+This is a slider game, played in the terminal.  You press u, r, l, or d to move the blank space around.  Once the numbers are in order with the blank space in the lower right corner, you win!  You can input arbitrary dimensions for the game board, but it gets ugly after maybe 5x5, because i didn't implement any code to line up the numbers in the displayed board.  Enjoy!
